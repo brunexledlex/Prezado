@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+# This will be a folio soon
+
 
 You can use the [editor on GitHub](https://github.com/brunexledlex/folio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
